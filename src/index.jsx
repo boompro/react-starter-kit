@@ -1,8 +1,8 @@
 // @flow
 
-import getConfig from 'helpers/config.es';
+import getConfig from 'app/config.es';
 import configureStore from 'helpers/store.es';
-import App from 'modules/common/containers/App/index.jsx';
+import App from 'app/containers/App/index.jsx';
 import {commonActionConfigSet} from 'modules/common/ducks/index.es';
 import * as React from 'react';
 import {render} from 'react-dom';
