@@ -6,7 +6,7 @@ import App from 'modules/common/containers/App/index.jsx';
 import {commonActionConfigSet} from 'modules/common/ducks/index.es';
 import * as React from 'react';
 import {render} from 'react-dom';
-import 'style/index.less';
+import 'serviceWorker.js';
 
 const root: HTMLElement | null = document.getElementById('root');
 
