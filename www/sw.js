@@ -4,7 +4,7 @@ const urlsToCache = [
     '/api/v1/config',
     '/api/v1/example',
     '/build/common.min.js',
-    '/build/index.min.css',
+    // '/build/index.min.css',
     '/build/index.min.js',
     '/favicon.ico',
     '/index.html',
